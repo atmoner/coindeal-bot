@@ -1,0 +1,1 @@
+# coindeal-bot
